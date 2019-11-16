@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeId"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:menuCategory="secondary"
+        />
+    <item
+        android:id="@+id/sleepID"
+        android:title="Sleep"
+        android:icon="@drawable/ic_hotel_black_24dp"
+        android:menuCategory="secondary"
+
+        />
+    <item
+        android:id="@+id/messageId"
+        android:title="Message"
+        android:icon="@drawable/ic_insert_comment_black_24dp"
+        android:menuCategory="secondary"
+
+        />
+
+</menu>
